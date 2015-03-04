@@ -32,8 +32,8 @@ public final class AppSettings {
         try {
             //set the properties value
             prop.setProperty("app_name", "TimeClock");
-            prop.setProperty("ver_major", "0");
-            prop.setProperty("ver_minor", "1");
+            prop.setProperty("ver_major", "1");
+            prop.setProperty("ver_minor", "0");
             prop.setProperty("ver_revision", "0");
             prop.setProperty("admin_pass", "FLH3gt7QHbW2xO9EFYh7XJcEzwgkouo2WThZbiKSIZCHNIgP4LSbWPjT0FB+ekZ6");
             prop.setProperty("dbdriver", "org.apache.derby.jdbc.EmbeddedDriver");
