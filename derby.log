@@ -1,19 +1,19 @@
 ----------------------------------------------------------------
-Wed Mar 04 09:45:58 EST 2015:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-014b-e540-19ba-00000e604b08 
-on database directory /Users/dannyjdelanojr/Downloads/TimeClock_V1/dbTimeClock  with class loader sun.misc.Launcher$AppClassLoader@23137792 
-Loaded from file:/Users/dannyjdelanojr/Downloads/TimeClock/derby/derby.jar
+Tue May 13 07:58:35 EDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0145-f572-d684-000006c58c78 
+on database directory /Users/demont-imac/Desktop/programs & modules/TimeClock_V1/dbTimeClock  with class loader sun.misc.Launcher$AppClassLoader@5a74b10b 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/db/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.7.0_45-b18
-user.dir=/Users/dannyjdelanojr/Downloads/TimeClock_V1
+user.dir=/Users/demont-imac/Desktop/programs & modules/TimeClock_V1
 os.name=Mac OS X
 os.arch=x86_64
-os.version=10.10.2
+os.version=10.9.2
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Wed Mar 04 09:50:25 EST 2015: Shutting down Derby engine
+Tue May 13 08:21:29 EDT 2014: Shutting down Derby engine
 ----------------------------------------------------------------
-Wed Mar 04 09:50:25 EST 2015:
-Shutting down instance a816c00e-014b-e540-19ba-00000e604b08 on database directory /Users/dannyjdelanojr/Downloads/TimeClock_V1/dbTimeClock with class loader sun.misc.Launcher$AppClassLoader@23137792 
+Tue May 13 08:21:29 EDT 2014:
+Shutting down instance a816c00e-0145-f572-d684-000006c58c78 on database directory /Users/demont-imac/Desktop/programs & modules/TimeClock_V1/dbTimeClock with class loader sun.misc.Launcher$AppClassLoader@5a74b10b 
 ----------------------------------------------------------------
